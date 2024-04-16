@@ -1,0 +1,26 @@
+*{
+    margin:0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+
+
+#btn1 {
+    width: 90%;
+    height: 90%;
+    background: #8a8989;
+    border-radius: 35px;
+    cursor: pointer;
+    margin-left: 7%;
+    margin-top: 40px;
+
+}
+
+#btn1:hover{
+    color: rgb(84, 226, 226);
+    background: #ad1414;
+}
+
